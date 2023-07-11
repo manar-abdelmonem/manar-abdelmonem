@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Software Engineer 
 - 👨‍💻 As a medical informatics student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with kotlin, python , , or anything related to andriod application  development and machine learning.
+- 💬 Ask me about my experience with kotlin, python , or anything related to andriod application  development and machine learning.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start  with a cup of coffee.
 
 
