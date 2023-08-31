@@ -29,6 +29,9 @@
 ![kotlin](https://img.shields.io/badge/-kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 ![mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![html](https://img.shields.io/badge/-html%20-05122A?style=flat&logo=html)&nbsp;
+
+
 
 
 
