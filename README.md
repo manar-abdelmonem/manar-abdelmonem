@@ -29,7 +29,7 @@
 ![kotlin](https://img.shields.io/badge/-kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 ![mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![Html](https://img.shields.io/badge/-Html%20-05122A?style=flat&logo=Html)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML%20-05122A?style=flat&logo=HTML)&nbsp;
 ![javascript](https://img.shields.io/badge/-javascript%20-05122A?style=flat&logo=javascript)&nbsp;
 
 
