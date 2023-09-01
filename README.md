@@ -33,7 +33,7 @@
 ![javascript](https://img.shields.io/badge/-javascript%20-05122A?style=flat&logo=javascript)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS%20-05122A?style=flat&logo=CSS)&nbsp;
 ![Laravel](https://img.shields.io/badge/-laravel%20-05122A?style=flat&logo=laravel)&nbsp;
-![Android Studio Code](https://img.shields.io/badge/-android%20Studio%20Code-05122A?style=flat&logo=android-studio-code&logoColor=007ACC)&nbsp;
+![Android Studio Code](https://img.shields.io/badge/-android%20studio%20code-05122A?style=flat&logo=android-studio-code&logoColor=007ACC)&nbsp;
 
 
 
