@@ -29,11 +29,8 @@
 ![kotlin](https://img.shields.io/badge/-kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 ![mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-
 ![javascript](https://img.shields.io/badge/-javascript%20-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML%20-05122A?style=flat&logo=HTML)&nbsp;
-
-
 ![CSS](https://img.shields.io/badge/-CSS%20-05122A?style=flat&logo=CSS)&nbsp;
 ![Laravel](https://img.shields.io/badge/-laravel%20-05122A?style=flat&logo=laravel)&nbsp;
 ![Android Studio Code](https://img.shields.io/badge/-android%20studio%20code-05122A?style=flat&logo=android-studio-code&logoColor=007ACC)&nbsp;
