@@ -31,6 +31,8 @@
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
 ![javascript](https://img.shields.io/badge/-javascript%20-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg)&nbsp;
+
 ![CSS](https://img.shields.io/badge/-CSS%20-05122A?style=flat&logo=CSS)&nbsp;
 ![Laravel](https://img.shields.io/badge/-laravel%20-05122A?style=flat&logo=laravel)&nbsp;
 ![Android Studio Code](https://img.shields.io/badge/-android%20studio%20code-05122A?style=flat&logo=android-studio-code&logoColor=007ACC)&nbsp;
